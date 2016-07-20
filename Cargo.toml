@@ -1,0 +1,6 @@
+[package]
+name = "aios4-fb"
+version = "0.1.0"
+authors = ["wuranbo <wuranbo@gmail.com>"]
+
+[dependencies]
